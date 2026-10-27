@@ -1,3 +1,15 @@
-# Project exclude paths
-/.gradle/
-/app/.gradle/
+# Gradle / Android Studio
+.gradle/
+_.gradle_*/
+build/
+/app/build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
+.DS_Store
+__MACOSX/
